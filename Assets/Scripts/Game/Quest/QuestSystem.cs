@@ -81,7 +81,7 @@ namespace GeoGame.Quest
 
 			GameController.Instance.onGameStarted -= OnGameStarted;
 			GameController.Instance.onGameStarted += OnGameStarted;
-
+			
 
 
 		}
